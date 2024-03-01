@@ -16,19 +16,12 @@ I also have an account on the PrivacyGuides forum. Like I said for Techlore Disc
 
 --> My profile : [Privacy Guides forum](https://discuss.privacyguides.net/u/rollsicecream/summary)
 
-### Social media (Mastodon/X/etc.)
+### Signal (preferred way)
 
-I don't have any social media so there's *currently* no way of contacting me from there. I don't even have plans of having them in the first place. Of course, I would use Mastodon instead of X/Twitter. 😄
+[**READ SIGNAL RULES FIRST!**](signal-rules.md)
 
-### Signal
+Soon! 
 
-You **cannot** contact me from Signal for now, I already claimed my username but : 
+### E-Mail with Proton Mail or PGP (preferred way)
 
-- If I accept your conversation with me, it will show my real/IRL name which is not ideal for me
-- Yes, I know I could create a second Signal account with another temporary number but that's also not really ideal for me as I don't want to manage 2 apps (Signal + Molly, which is another Signal client) as Signal also doesn't support multiple accounts on one phone (at least for now).
-
-If that situation changes, then I would gladly share my username 😀
-
-### SimpleX
-
-Option not available at this time 🙁
+Soon!

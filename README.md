@@ -1,6 +1,6 @@
 # Welcome to my personal page!
 
-[Repository](https://github.com/rollsicecream/rollsicecream.github.io) | [Website Homepage](README.md) | [Contact](contact.md)
+[Repository](https://github.com/rollsicecream/rollsicecream.github.io) | [Website Homepage](README.md) | [Contact](contact.md) | [Signal rules](signal-rules.md)
 
 ## Home
 
