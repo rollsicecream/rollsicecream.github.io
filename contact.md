@@ -1,4 +1,4 @@
-[Repository](https://github.com/rollsicecream/rollsicecream.github.io) | [Website Homepage](README.md) | [Contact](contact.md)
+[Repository](https://github.com/rollsicecream/rollsicecream.github.io) | [Website Homepage](README.md) | [Contact](contact.md) | [Signal rules](signal-rules.md)
 
 ## Where to see/contact me?
 
@@ -24,4 +24,29 @@ Soon!
 
 ### E-Mail with Proton Mail or PGP (preferred way)
 
-Soon!
+Here's my E-Mail to contact me : 
+
+**rollsicecream@proton.me**
+
+For more sensitive inquiries, encrypt your email with my public PGP key, though Signal is a better option for that use-case : 
+
+[**Download PGP public key**](assets/pubkey.asc)
+
+If you use Proton Mail, you do **not** need PGP because the E-Mail would be encrypted at rest *and* in transit (as I also use Proton Mail).
+
+If you use Mailbox, here's a guide : 
+
+https://kb.mailbox.org/en/private/security-privacy-article/how-can-e-mails-be-encrypted-with-pgp/
+
+If you use Tutanota, you don't have the option to use PGP, in that case, you have to send me an unencrypted E-Mail. It will be less secure as the E-Mail will not be encrypted at transit.
+
+If you use Gmail, you have to use external tools like [FlowCrypt](https://flowcrypt.com) or [Mailvelope](https://mailvelope.com/en)
+
+> ⚠️ **FlowCrypt is [open-source](https://github.com/FlowCrypt), unlike Mailvelope which isn't.**
+
+> 🔵 **Mailvelope is also compatible with Outlook and Yahoo Mail, so, if you use these services, you have to go with that option.**
+
+
+
+
+

@@ -1,4 +1,4 @@
-[Repository](https://github.com/rollsicecream/rollsicecream.github.io) | [Website Homepage](README.md) | [Contact](contact.md)
+[Repository](https://github.com/rollsicecream/rollsicecream.github.io) | [Website Homepage](README.md) | [Contact](contact.md) | [Signal rules](signal-rules.md)
 
 ## Signal rules
 
@@ -6,6 +6,6 @@
 
 - Audio messages are accepted but not recommended.
 
-- Do not send me unsolicited messages, send me an E-Mail first (preferably with PGP) so I can confirm you that you are allowed to send messages to me.
+- Do not send me unsolicited messages, send me an [E-Mail](contact.md) first (preferably with PGP) so I can confirm you that you are allowed to send messages to me (rule currently disabled as Signal contact option not available yet).
 
 ### That's it! 😄
