@@ -36,7 +36,7 @@ If you use Proton Mail, you do **not** need PGP because the E-Mail would be encr
 
 If you use Mailbox, here's a guide : 
 
-https://kb.mailbox.org/en/private/security-privacy-article/how-can-e-mails-be-encrypted-with-pgp/
+[https://kb.mailbox.org/en/private/security-privacy-article/how-can-e-mails-be-encrypted-with-pgp/](https://kb.mailbox.org/en/private/security-privacy-article/how-can-e-mails-be-encrypted-with-pgp/)
 
 If you use Tutanota, you don't have the option to use PGP, in that case, you have to send me an unencrypted E-Mail. It will be less secure as the E-Mail will not be encrypted at transit.
 
