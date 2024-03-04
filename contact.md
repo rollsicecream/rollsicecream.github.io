@@ -20,7 +20,9 @@ I also have an account on the PrivacyGuides forum. Like I said for Techlore Disc
 
 [**READ SIGNAL RULES FIRST!**](signal-rules.md)
 
-Soon! 
+**Send me an E-Mail with the address mentioned below (preferably encrypted with PGP) so I could let you message me on Signal.** 
+
+> 🔵 **I had to do this to not get SPAM and other random gibberish from random people on my phone.**
 
 ### E-Mail with Proton Mail or PGP (preferred way)
 
