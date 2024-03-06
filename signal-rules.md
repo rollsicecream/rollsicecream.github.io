@@ -6,6 +6,8 @@
 
 - Audio messages are accepted but not recommended.
 
-- Do not send me unsolicited messages, send me an [E-Mail](contact.md) first (preferably with PGP) so I can confirm you that you are allowed to send messages to me (rule currently disabled as Signal contact option not available yet).
+- Do not send me unsolicited messages, send me an [E-Mail](contact.md) first (preferably with PGP) so I can confirm you that you are allowed to send messages to me.
+
+- I won't share your username or phone number without your permission, I expect the same for myself.
 
 ### That's it! 😄
